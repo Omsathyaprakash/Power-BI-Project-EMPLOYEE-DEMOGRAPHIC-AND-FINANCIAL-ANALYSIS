@@ -30,3 +30,12 @@ Source: https://drive.google.com/file/d/1kDCzIDyz-CbCdcdhquOun3x5EXAlLRVY/view?u
 -- Donut Chart: Number of Dependents
 -- Table: Top 10 highest earners with key details (Name, Occupation, age,Income, Education_Level)
 -- Filters / Slicers: Gender,Employment Status,Location,marital status
+
+## 6. 📈 Key Insights
+-- The workforce is relatively balanced, with female employees making up 48.77% and male employees 51.23%.
+--The largest sector is healthcare, with 3.04K employees, followed closely by technology and finance. This might indicate high demand for healthcare professionals or tech-related jobs.
+--The highest proportion of employees holds a Bachelor's degree (4.1K), followed by High School graduates (3.0K). The lower count of Doctorate holders (0.5K) might indicate that fewer roles require advanced academic qualifications.
+
+
+
+
