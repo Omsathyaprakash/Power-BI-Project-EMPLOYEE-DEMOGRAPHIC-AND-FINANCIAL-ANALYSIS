@@ -32,15 +32,19 @@ Source: https://drive.google.com/file/d/1kDCzIDyz-CbCdcdhquOun3x5EXAlLRVY/view?u
 -- Filters / Slicers: Gender,Employment Status,Location,marital status
 
 ## 6. 📈 Key Insights
-##1.Demographic Overview:
+## Demographic Overview:
 
 ![image](https://github.com/user-attachments/assets/908d1db8-09f8-4d65-9a2e-17719714e0a2)
 
--- The workforce is relatively balanced, with female employees making up 48.77% and male employees 51.23%.
---The largest sector is healthcare, with 3.04K employees, followed closely by technology and finance. This might indicate high demand for healthcare professionals or tech-related jobs.
---The highest proportion of employees holds a Bachelor's degree (4.1K), followed by High School graduates (3.0K). The lower count of Doctorate holders (0.5K) might indicate that fewer roles require advanced academic qualifications.
+Gender Distribution:
+ The workforce is relatively balanced, with female employees making up 48.77% and male employees 51.23%.
+Occupation Distribution: 
+The largest sector is healthcare, with 3.04K employees, followed closely by technology and finance. This might indicate high demand for healthcare professionals or tech-related jobs.
+Education Level: 
+The highest proportion of employees holds a Bachelor's degree (4.1K), followed by High School graduates (3.0K). The lower count of Doctorate holders (0.5K) might indicate that fewer roles require advanced academic qualifications.
 
-##2. Income Overview:
+
+## Income Overview:
 
 ![image](https://github.com/user-attachments/assets/14dab624-0a13-4b3c-840c-181bffa8b7ac)
 
@@ -49,6 +53,28 @@ The income trends across education levels reveal that employees with a High Scho
 The overall average income across all employees stands at 816.84K, indicating that mid-level professionals form a substantial portion of the workforce and contribute significantly to total earnings.
 
 When examining income distribution by location, urban employees generate the highest total income (5.3bn), followed by suburban (1.8bn) and rural (1.1bn) counterparts. This aligns with typical economic patterns, where urban areas tend to offer higher-paying opportunities due to greater industry concentration and elevated cost of living.
+
+## Experience & Dependents Analysis:
+
+![image](https://github.com/user-attachments/assets/561ce0fa-38c4-4824-bced-e38e46eee6fc)
+
+Income vs. Work Experience:
+The scatter plot suggests a positive correlation between work experience and income, but not always a linear trend. Some employees with fewer years of experience are among the highest earners, hinting at factors like high-demand skills, specialized roles.
+Number of Dependents:
+The majority of employees (34.53%) have five dependents, followed by 25.79% with four dependents.This trend indicates potential financial strain on a large portion of the workforce, which may impact salary negotiations, benefits.
+Top 10 Highest Earners:
+Healthcare dominates the top earners list, reinforcing the trend that medical professionals tend to have some of the highest salaries.
+Education level doesn’t strictly define earnings—while most top earners hold a Bachelor's or Master's degree.
+
+##7. Conclusion
+
+This project highlights a data-driven approach to understanding employee demographics, income distribution, work experience, and financial obligations through dynamic dashboards. Using Power BI and interactive visualizations, the analysis provides valuable workforce insights that can inform hiring strategies, salary benchmarking, and talent management decisions.
+
+
+
+
+
+
 
 
 
