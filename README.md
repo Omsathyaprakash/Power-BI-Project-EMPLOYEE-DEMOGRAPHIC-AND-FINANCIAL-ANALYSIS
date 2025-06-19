@@ -36,12 +36,14 @@ Source: https://drive.google.com/file/d/1kDCzIDyz-CbCdcdhquOun3x5EXAlLRVY/view?u
 
 ![image](https://github.com/user-attachments/assets/908d1db8-09f8-4d65-9a2e-17719714e0a2)
 
-Gender Distribution:
+ Gender Distribution:
  The workforce is relatively balanced, with female employees making up 48.77% and male employees 51.23%.
 Occupation Distribution: 
 The largest sector is healthcare, with 3.04K employees, followed closely by technology and finance. This might indicate high demand for healthcare professionals or tech-related jobs.
 Education Level: 
 The highest proportion of employees holds a Bachelor's degree (4.1K), followed by High School graduates (3.0K). The lower count of Doctorate holders (0.5K) might indicate that fewer roles require advanced academic qualifications.
+
+
 
 
 ## Income Overview:
