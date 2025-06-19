@@ -40,6 +40,21 @@ Source: https://drive.google.com/file/d/1kDCzIDyz-CbCdcdhquOun3x5EXAlLRVY/view?u
 --The largest sector is healthcare, with 3.04K employees, followed closely by technology and finance. This might indicate high demand for healthcare professionals or tech-related jobs.
 --The highest proportion of employees holds a Bachelor's degree (4.1K), followed by High School graduates (3.0K). The lower count of Doctorate holders (0.5K) might indicate that fewer roles require advanced academic qualifications.
 
+##2. Income Overview:
+
+![image](https://github.com/user-attachments/assets/14dab624-0a13-4b3c-840c-181bffa8b7ac)
+
+The income trends across education levels reveal that employees with a High School degree earn the highest average income (868.67K), followed by Bachelor's degree holders (812.34K) and Master's degree holders (800.38K). Interestingly, Doctorate holders earn the least (628.71K), suggesting that highly specialized academic roles may not always command higher salaries.
+
+The overall average income across all employees stands at 816.84K, indicating that mid-level professionals form a substantial portion of the workforce and contribute significantly to total earnings.
+
+When examining income distribution by location, urban employees generate the highest total income (5.3bn), followed by suburban (1.8bn) and rural (1.1bn) counterparts. This aligns with typical economic patterns, where urban areas tend to offer higher-paying opportunities due to greater industry concentration and elevated cost of living.
+
+
+
+
+
+
 
 
 
