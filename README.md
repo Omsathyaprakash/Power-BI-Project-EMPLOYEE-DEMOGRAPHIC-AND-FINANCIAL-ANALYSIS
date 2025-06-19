@@ -32,9 +32,13 @@ Source: https://drive.google.com/file/d/1kDCzIDyz-CbCdcdhquOun3x5EXAlLRVY/view?u
 -- Filters / Slicers: Gender,Employment Status,Location,marital status
 
 ## 6. 📈 Key Insights
--- The workforce is relatively balanced, with female employees making up 48.77% and male employees 51.23%.␣␣
---The largest sector is healthcare, with 3.04K employees, followed closely by technology and finance. This might indicate high demand for healthcare professionals or tech-related jobs.␣␣
---The highest proportion of employees holds a Bachelor's degree (4.1K), followed by High School graduates (3.0K). The lower count of Doctorate holders (0.5K) might indicate that fewer roles require advanced academic qualifications.␣␣
+##1.Demographic Overview:
+
+![image](https://github.com/user-attachments/assets/908d1db8-09f8-4d65-9a2e-17719714e0a2)
+
+-- The workforce is relatively balanced, with female employees making up 48.77% and male employees 51.23%.
+--The largest sector is healthcare, with 3.04K employees, followed closely by technology and finance. This might indicate high demand for healthcare professionals or tech-related jobs.
+--The highest proportion of employees holds a Bachelor's degree (4.1K), followed by High School graduates (3.0K). The lower count of Doctorate holders (0.5K) might indicate that fewer roles require advanced academic qualifications.
 
 
 
