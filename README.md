@@ -66,7 +66,7 @@ Top 10 Highest Earners:
 Healthcare dominates the top earners list, reinforcing the trend that medical professionals tend to have some of the highest salaries.
 Education level doesn’t strictly define earnings—while most top earners hold a Bachelor's or Master's degree.
 
-##7. Conclusion
+## Conclusion
 
 This project highlights a data-driven approach to understanding employee demographics, income distribution, work experience, and financial obligations through dynamic dashboards. Using Power BI and interactive visualizations, the analysis provides valuable workforce insights that can inform hiring strategies, salary benchmarking, and talent management decisions.
 
